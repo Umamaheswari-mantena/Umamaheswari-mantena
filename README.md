@@ -2,8 +2,6 @@
 
 # I am Srilakshmi Umamaheswari Mantena
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/umamaheswari-mantena/)
-
 Welcome to my GitHub portfolio! I'm Srilakshmi Umamaheswari Mantena, a passionate computer science graduate student with expertise in machine learning, data analysis, and software engineering. Here you'll find a collection of projects and code samples that demonstrate my skills and experiences in various domains of computer science.
 
 ## Projects
@@ -32,6 +30,6 @@ Welcome to my GitHub portfolio! I'm Srilakshmi Umamaheswari Mantena, a passionat
 - **Cloud Technologies**: AWS, Azure
 
 ## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/srilakshmi-umamaheswari-mantena/)
+Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/umamaheswari-mantena/)
 
 I'm in the process of cleaning up codes for some projects so that I can publish them as soon as possible.
