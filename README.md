@@ -17,10 +17,6 @@ Welcome to my GitHub portfolio! I'm Srilakshmi Umamaheswari Mantena, a passionat
   - Northern Illinois University, DeKalb, Illinois
   - GPA: 3.91/4.00
 
-- **Bachelor of Technology, Electronics & Communication Engineering**
-  - Jawaharlal Technological University, Kakinada, India
-  - GPA: 3.77/4.00
-
 ## Skills
 - **Programming Languages**: Python, R, Java, C, C++, JavaScript
 - **Data Analysis**: SQL, Pandas, NumPy, Data Modeling
