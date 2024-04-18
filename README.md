@@ -8,7 +8,8 @@ Welcome to my GitHub portfolio! I'm Srilakshmi Umamaheswari Mantena, a passionat
 
 - [Storm Impact Explorer: Interactive Visualization of U.S. Weather Events](https://github.com/Umamaheswari-mantena/Storm-Impact-Explorer-Interactive-Visualization-of-U.S.-Weather-Events)
 - [Exploring-AI-and-ML-Trends-through-Topic-Modeling](https://github.com/Umamaheswari-mantena/Exploring-AI-and-ML-Trends-through-Topic-Modeling)
-
+- [Predictive-Airfare-Analysis](https://github.com/Umamaheswari-mantena/Predictive-Airfare-Analysis)
+  
 ## Observable Notebooks
 - https://observablehq.com/user/@uma-maheswari-mantena
   
